@@ -14,6 +14,9 @@ jobs:
           submodules: true  # Fetch Hugo themes (if any)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Clean up module files
+        run: rm -f go.mod go.sum
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
