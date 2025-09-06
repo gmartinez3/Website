@@ -21,7 +21,7 @@ jobs:
           extended: true
 
       - name: Update Hugo Modules
-        run: hugo mod get -u
+        run: hugo mod tidy
 
       - name: Build
         run: hugo --minify
