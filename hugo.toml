@@ -2,9 +2,7 @@ baseURL = "https://glm3.com/"
 languageCode = "en-us"
 title = "George's Professional Portfolio"
 
-[module]
-  [[module.imports]]
-    path = "github.com/theNewDynamic/gohugo-theme-ananke"
+theme = "ananke"
 
 [params]
   favicon = ""
