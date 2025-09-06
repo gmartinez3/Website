@@ -1,0 +1,22 @@
+baseURL = "https://glm3.com/"
+languageCode = "en-us"
+title = "George's Professional Portfolio"
+
+[module]
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"
+
+[params]
+  favicon = ""
+  description = "The professional resume and portfolio for a Field CTO in the Physical Security industry."
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/
+  background_color_class = "bg-black"
+  # choose a font color from any on this page: https://tachyons.io/docs/themes/skins/
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
