@@ -11,8 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch Hugo themes (if any)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Init Git Submodules
+        run: git submodule init && git submodule update
 
       - name: Clean up module files
         run: rm -f go.mod go.sum
