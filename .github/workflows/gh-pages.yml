@@ -10,20 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Init Git Submodules
-        run: git submodule init && git submodule update
-
-      - name: Clean up module files
-        run: rm -f go.mod go.sum
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
+
+      - name: Download and Unzip Theme
+        run: |
+          mkdir -p themes
+          curl -L https://github.com/theNewDynamic/gohugo-theme-ananke/archive/refs/heads/master.zip -o ananke.zip
+          unzip -j ananke.zip -d themes/ananke
 
 
       - name: Build
