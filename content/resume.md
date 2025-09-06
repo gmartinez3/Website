@@ -12,7 +12,7 @@ Email: JobInquiries@GLM3.com
 
 **Experience**
 
-**Accessia** | Jan 2024 \- Aug 2025 | **Director of Engineering**
+**<a href="https://accessia.com" target="_blank" rel="noopener noreferrer">Accessia</a>** | Jan 2024 \- Aug 2025 | **Director of Engineering**
 
 * Accessia developed a Cloud Security Platform featuring a home-grown Access Control Hub, Native Video Security camera and cloud integrations, Intercom, Visitor Management, Environmental Sensors, Video Conferencing/Collaboration Integration  
 * Established and built the US Sales and Engineering team, fostering a dynamic culture and brand establishment of a cutting-edge, open, accessible, intelligent, and affordable next-generation security platform.  
@@ -20,7 +20,7 @@ Email: JobInquiries@GLM3.com
 * Presented product showcases, receiving award recognition at ISCW 2025  
 * Interfaced Directly with the CEO, Sales Leader, Head of Marketing, Head of Product
 
-**Avigilon Alta Video** | Jan 2022 \- Sep 2023 | **Field CTO**
+**<a href="https://www.avigilon.com/alta" target="_blank" rel="noopener noreferrer">Avigilon Alta Video</a>** | Jan 2022 \- Sep 2023 | **Field CTO**
 
 * (Vaion became Ava Security in 2020, acquired by Motorola Solutions in 2022 and then rebranded as Avigilon Alta Video in 2023\)  
 * Avigilon Alta, previously known as Ava Security developed a brand new Cloud Video Security Platform featuring a Cloud VMS as well as native Video Security cameras.  Allowing customers to run entirely cloud based with no infrastructure or on-prem with local redundant storage.  Provided Sensor integration, Access Control integration, Speaker Integration, POS integration and third party camera integration.  
@@ -29,23 +29,23 @@ Email: JobInquiries@GLM3.com
 * Operated as the primary liaison between Sales, customers and the Product Management and Development team  
 * **Skills:** Sales Engineering · REST APIs · Customer Engagement · Technical Leadership · Building New Business
 
-**Ava Security** | Jun 2020 \- Jan 2022 | **Director of Sales Engineering, US**
+**<a href="https://www.avigilon.com/alta" target="_blank" rel="noopener noreferrer">Ava Security</a>** | Jun 2020 \- Jan 2022 | **Director of Sales Engineering, US**
 
 * Managed the Sales Engineering team across the United States, encompassing both Cyber Security and Physical Security.
 
-**Jazz Networks & Vaion Security** | Sep 2019 \- Jun 2020 | **Cyber and Video Sales Engineer**
+**<a href="https://www.fortinet.com/products/fortidlp" target="_blank" rel="noopener noreferrer">Jazz Networks</a> & <a href="https://www.avigilon.com/alta" target="_blank" rel="noopener noreferrer">Vaion Security</a>** | Sep 2019 \- Jun 2020 | **Cyber and Video Sales Engineer**
 
 * Served as the West Coast Sales Engineer for both the Cyber Security Business (Jazz Networks) and the Video Security business (Vaion Security).
 
-**Jazz Networks** | Sep 2017 \- Sep 2019 | **Cyber Security Sales Engineer**
+**<a href="https://www.fortinet.com/products/fortidlp" target="_blank" rel="noopener noreferrer">Jazz Networks</a>** | Sep 2017 \- Sep 2019 | **Cyber Security Sales Engineer**
 
 * Jazz Networks released their Cyber Security User Entity and Behavior Analytics solution in September of 2017 providing a Machine Learning driven Agent that could proactively protect companies from bad actors.
 
-**Cisco Systems** | Feb 2016 \- Sep 2017 | **Spark Video Consulting Systems Engineer**
+**<a href="https://www.cisco.com/c/en/us/products/collaboration-endpoints/index.html" target="_blank" rel="noopener noreferrer">Cisco Systems</a>** | Feb 2016 \- Sep 2017 | **Spark Video Consulting Systems Engineer**
 
 * Responsible for Video and Collaboration devices registering to Cisco's Spark Cloud, collaborating with customers on media flow, encryption, integrations, and APIs.
 
-**Acano** | Aug 2013 \- Feb 2016 | **Senior Sales Engineer**
+**<a href="https://www.cisco.com/c/en/us/products/conferencing/meeting-server/index.html" target="_blank" rel="noopener noreferrer">Acano</a>** | Aug 2013 \- Feb 2016 | **Senior Sales Engineer**
 
 * Joined Acano as one of the first Sales Engineers, contributing until its acquisition by Cisco for $700M.
 
@@ -53,11 +53,11 @@ Email: JobInquiries@GLM3.com
 
 * Specialized in Video Conferencing/TelePresence technologies ranging from Soft Clients to Room based and Immersive TelePresence Systems
 
-**Electronic Arts** | Mar 2009 – Jan 2010 | **Voice-Over IP and Video Conferencing Technician**
+**<a href="https://www.ea.com/" target="_blank" rel="noopener noreferrer">Electronic Arts</a>** | Mar 2009 – Jan 2010 | **Voice-Over IP and Video Conferencing Technician**
 
 * Managed Electronic Arts Video Conferencing systems worldwide, directly responsible for over 140 Tandberg and Polycom endpoints globally using TelePresence Management Suite
 
-**U.S. Marine Corps** | Oct 2004 – Mar 2009 | **PBX Telecommunications Specialist, Sergeant**
+**<a href="https://www.marines.com/" target="_blank" rel="noopener noreferrer">U.S. Marine Corps</a>** | Oct 2004 – Mar 2009 | **PBX Telecommunications Specialist, Sergeant**
 
 * Managed multiple Telecommunications Systems simultaneously in Mobile Operations  
 * Deployed overseas in support of WESTPAC 08-02 as Voice Telecommunications Chief.  Managed multiple PBX gateways
