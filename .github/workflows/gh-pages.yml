@@ -21,7 +21,8 @@ jobs:
         run: |
           mkdir -p themes
           curl -L https://github.com/theNewDynamic/gohugo-theme-ananke/archive/refs/heads/master.zip -o ananke.zip
-          unzip -j ananke.zip -d themes/ananke
+          unzip ananke.zip
+          mv gohugo-theme-ananke-master themes/ananke
 
 
       - name: Build
