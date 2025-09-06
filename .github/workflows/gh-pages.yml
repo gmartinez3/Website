@@ -20,6 +20,9 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Update Hugo Modules
+        run: hugo mod get -u
+
       - name: Build
         run: hugo --minify
 
